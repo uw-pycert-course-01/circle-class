@@ -1,15 +1,3 @@
-==========
-activity07
-==========
-
-
-Add a short description here!
-
-
-Description
-===========
-.. _exercise_circle_class:
-
 #####################
 Circle Class Exercise
 #####################
